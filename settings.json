@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "WoodshireBallin.aternos.me:58190",
+    "port": 58190,
     "version": "",
     "try-creative": false
   },
