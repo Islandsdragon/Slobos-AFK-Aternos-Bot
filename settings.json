@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "WoodshireBallin.aternos.me:58190",
+    "ip": "WoodshireBallin.aternos.me",
     "port": 58190,
     "version": "",
     "try-creative": false
